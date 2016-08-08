@@ -1,0 +1,32 @@
+_repo: Vier-Voordrachten-over-Theosofie_12756
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Besant, Annie Wood
+    - Wood, Annie
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: ''
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12756'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+- GITenberg
+tableOfContents: 'De Leeringen der Theosofie beschouwd uit een geschiedkundig oogpunt
+  -- De Leeringen der Theosofie beschouwd uit een wetenschappelijk oogpunt -- Esoterisch
+  Christendom -- Het verhaal van den Christus -- Aanhangsel: Inlichtingen over de
+  Theosofische Vereeniging.'
+title: Vier Voordrachten over Theosofie
+url: http://www.gutenberg.org/ebooks/12756
