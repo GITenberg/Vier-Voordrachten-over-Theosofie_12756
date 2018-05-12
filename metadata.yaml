@@ -1,5 +1,8 @@
 _repo: Vier-Voordrachten-over-Theosofie_12756
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Besant, Annie
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1425
     wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12756#Vier-Voordrachten-over-Theosofie
 gutenberg_issued: '2004-06-28'
 gutenberg_type: Text
 identifiers:
